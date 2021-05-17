@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hien",
+      "email": "minhhien2000k@gmail.com",
+      "password": "conmaconmahaha"
+    },
+    {
+      "id": 2,
+      "name": "Phung",
+      "email": "phung2000k@gmail.com",
+      "password": "conmaconmahaha"
+    },
+    {
+      "id": 3,
+      "name": "An",
+      "email": "an2000k@gmail.com",
+      "password": "conmaconmahaha"
+    },
+    {
+      "id": 4,
+      "name": "Hiep",
+      "email": "hiep2000k@gmail.com",
+      "password": "conmaconmahaha"
+    },
+    {
+      "id": 5,
+      "name": "VanAnh",
+      "email": "vananh2000k@gmail.com",
+      "password": "conmaconmahaha"
+    }
+  ]
+}

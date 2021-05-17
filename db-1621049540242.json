@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "ahihi",
+      "email": "ahihi@gmail.com",
+      "password": "ahuhulala"
+    },
+    {
+      "id": 1,
+      "name": "ahihi1",
+      "email": "ahihi1@gmail.com",
+      "password": "ahuhulala"
+    },
+    {
+      "id": 1,
+      "name": "ahihi2",
+      "email": "ahihi2@gmail.com",
+      "password": "ahuhulala"
+    },
+    {
+      "id": 1,
+      "name": "ahihi3",
+      "email": "ahihi3@gmail.com",
+      "password": "ahuhulala"
+    },
+    {
+      "id": 1,
+      "name": "ahihi4",
+      "email": "ahihi4@gmail.com",
+      "password": "ahuhulala"
+    }
+  ]
+}
