@@ -29,6 +29,18 @@
       "name": "VanAnh",
       "email": "vananh2000k@gmail.com",
       "password": "conmaconmahaha"
+    },
+    {
+      "id": 6,
+      "name": "HienPro",
+      "email": "ahihi@gmail.com",
+      "password": "ahuhuhaha"
+    },
+    {
+      "id": 7,
+      "name": "HienProahihi",
+      "email": "lehoangtvi2509@gmail.com",
+      "password": "123456789haha"
     }
   ],
   "products": [
@@ -127,6 +139,562 @@
       "price": 56,
       "name": "Easy Polo Black Edition ahihi",
       "img": "assets/images/shop/product12.jpg"
+    },
+    {
+      "id": 17,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product1.jpg"
+    },
+    {
+      "id": 18,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product2.jpg"
+    },
+    {
+      "id": 19,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product3.jpg"
+    },
+    {
+      "id": 20,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product4.jpg"
+    },
+    {
+      "id": 21,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product5.jpg"
+    },
+    {
+      "id": 22,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product6.jpg"
+    },
+    {
+      "id": 23,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery1.jpg"
+    },
+    {
+      "id": 24,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery2.jpg"
+    },
+    {
+      "id": 25,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery3.jpg"
+    },
+    {
+      "id": 26,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery4.jpg"
+    },
+    {
+      "id": 27,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product7.jpg"
+    },
+    {
+      "id": 28,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product8.jpg"
+    },
+    {
+      "id": 29,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product9.jpg"
+    },
+    {
+      "id": 30,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product10.jpg"
+    },
+    {
+      "id": 31,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product11.jpg"
+    },
+    {
+      "id": 32,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product12.jpg"
+    },
+    {
+      "id": 33,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product1.jpg"
+    },
+    {
+      "id": 34,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product2.jpg"
+    },
+    {
+      "id": 35,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product3.jpg"
+    },
+    {
+      "id": 36,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product4.jpg"
+    },
+    {
+      "id": 37,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product5.jpg"
+    },
+    {
+      "id": 38,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product6.jpg"
+    },
+    {
+      "id": 39,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery1.jpg"
+    },
+    {
+      "id": 40,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery2.jpg"
+    },
+    {
+      "id": 41,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery3.jpg"
+    },
+    {
+      "id": 42,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery4.jpg"
+    },
+    {
+      "id": 43,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product7.jpg"
+    },
+    {
+      "id": 44,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product8.jpg"
+    },
+    {
+      "id": 45,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product9.jpg"
+    },
+    {
+      "id": 46,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product10.jpg"
+    },
+    {
+      "id": 47,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product11.jpg"
+    },
+    {
+      "id": 48,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product12.jpg"
+    },
+    {
+      "id": 49,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product1.jpg"
+    },
+    {
+      "id": 50,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product2.jpg"
+    },
+    {
+      "id": 51,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product3.jpg"
+    },
+    {
+      "id": 52,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product4.jpg"
+    },
+    {
+      "id": 53,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product5.jpg"
+    },
+    {
+      "id": 54,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product6.jpg"
+    },
+    {
+      "id": 55,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery1.jpg"
+    },
+    {
+      "id": 56,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery2.jpg"
+    },
+    {
+      "id": 57,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery3.jpg"
+    },
+    {
+      "id": 58,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery4.jpg"
+    },
+    {
+      "id": 59,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product7.jpg"
+    },
+    {
+      "id": 60,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product8.jpg"
+    },
+    {
+      "id": 61,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product9.jpg"
+    },
+    {
+      "id": 62,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product10.jpg"
+    },
+    {
+      "id": 63,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product11.jpg"
+    },
+    {
+      "id": 64,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product12.jpg"
+    },
+    {
+      "id": 65,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery2.jpg"
+    },
+    {
+      "id": 66,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery3.jpg"
+    },
+    {
+      "id": 67,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery4.jpg"
+    },
+    {
+      "id": 68,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product7.jpg"
+    },
+    {
+      "id": 69,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product8.jpg"
+    },
+    {
+      "id": 70,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product9.jpg"
+    },
+    {
+      "id": 71,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product10.jpg"
+    },
+    {
+      "id": 72,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product11.jpg"
+    },
+    {
+      "id": 73,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product12.jpg"
+    },
+    {
+      "id": 74,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product1.jpg"
+    },
+    {
+      "id": 75,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product2.jpg"
+    },
+    {
+      "id": 76,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product3.jpg"
+    },
+    {
+      "id": 77,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product4.jpg"
+    },
+    {
+      "id": 78,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product5.jpg"
+    },
+    {
+      "id": 79,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product6.jpg"
+    },
+    {
+      "id": 80,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery1.jpg"
+    },
+    {
+      "id": 81,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery2.jpg"
+    },
+    {
+      "id": 82,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery3.jpg"
+    },
+    {
+      "id": 83,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery4.jpg"
+    },
+    {
+      "id": 84,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product7.jpg"
+    },
+    {
+      "id": 85,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product8.jpg"
+    },
+    {
+      "id": 86,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product9.jpg"
+    },
+    {
+      "id": 87,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product10.jpg"
+    },
+    {
+      "id": 88,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product11.jpg"
+    },
+    {
+      "id": 89,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product12.jpg"
+    },
+    {
+      "id": 90,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product1.jpg"
+    },
+    {
+      "id": 91,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product2.jpg"
+    },
+    {
+      "id": 92,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product3.jpg"
+    },
+    {
+      "id": 93,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product4.jpg"
+    },
+    {
+      "id": 94,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product5.jpg"
+    },
+    {
+      "id": 95,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/product6.jpg"
+    },
+    {
+      "id": 96,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery1.jpg"
+    },
+    {
+      "id": 97,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery2.jpg"
+    },
+    {
+      "id": 98,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery3.jpg"
+    },
+    {
+      "id": 99,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/home/gallery4.jpg"
+    },
+    {
+      "id": 100,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product7.jpg"
+    },
+    {
+      "id": 101,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product8.jpg"
+    },
+    {
+      "id": 102,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product9.jpg"
+    },
+    {
+      "id": 103,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product10.jpg"
+    },
+    {
+      "id": 104,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product11.jpg"
+    },
+    {
+      "id": 105,
+      "price": 56,
+      "name": "Easy Polo Black Edition ahihi",
+      "img": "assets/images/shop/product12.jpg"
     }
-  ]
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "price": 56,
+        "name": "Easy Polo Black Edition ahihi",
+        "img": "assets/images/home/product1.jpg"
+      },
+      "quantity": 1,
+      "priceTotal": 10
+    },
+    {
+      "product": {
+        "id": 1,
+        "price": 56,
+        "name": "Easy Polo Black Edition ahihi",
+        "img": "assets/images/home/product1.jpg"
+      },
+      "quantity": 1,
+      "priceTotal": 10
+    }
+  ] 
 }
