@@ -1,5 +1,34 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "img": "",
+      "name": "minh hien",
+      "email": "minhhien1@gmail.com",
+      "password": "123456789ahihi"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "name": "minh hien",
+      "email": "minhhien2@gmail.com",
+      "password": "123456789ahihi"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "name": "minh hien",
+      "email": "minhhien3@gmail.com",
+      "password": "123456789ahihi"
+    },
+    {
+      "id": 4,
+      "img": "",
+      "name": "minh hien",
+      "email": "minhhien4@gmail.com",
+      "password": "123456789ahihi"
+    }
+  ],
   "currentUser": {},
   "products": [
     {
