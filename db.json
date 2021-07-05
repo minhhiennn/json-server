@@ -1,4 +1,4 @@
-{
+﻿{
   "users": [
     {
       "id": 1,
@@ -29,7 +29,6 @@
       "password": "123456789ahihi"
     }
   ],
-  "currentUser": {},
   "products": [
     {
       "id": 1,
@@ -249,5 +248,17 @@
     }    
   ],
   "cart": [],
-  "comment": []
+  "comment": [],
+  "voucher": [
+    {
+      "code": "null",
+      "quantity": null,
+      "type": "null",
+      "content": "null",
+      "condition": "null",
+      "discount": null,
+      "dateBegin": "null",
+      "dateEnd": "null"
+    }
+  ]
 }
