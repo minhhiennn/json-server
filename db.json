@@ -252,7 +252,7 @@
   "voucher": [
     {
       "code": "codeTheoGio",
-      "quantity": 20,
+      "quantity": 50,
       "type": "%",
       "content": "1-0-0-0-0",
       "condition": "null",
