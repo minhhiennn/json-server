@@ -252,11 +252,11 @@
   "voucher": [
     {
       "code": "codeTheoGio",
-      "quantity": 50,
+      "quantity": 20,
       "type": "%",
       "content": "1-0-0-0-0",
       "condition": "null",
-      "discount": 10,
+      "discount": 50,
       "dateBegin": "07/01/2021",
       "dateEnd": "07/31/2021"
     },
