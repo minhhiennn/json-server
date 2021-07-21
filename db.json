@@ -270,5 +270,19 @@
       "dateBegin": "07/01/2021",
       "dateEnd": "07/31/2021"
     }
+  ],
+  "listfriend": [
+    {
+      "id": 1,
+      "username": "teo"
+    },
+    {
+      "id": 2,
+      "username": "ti"
+    },
+    {
+      "id": 3,
+      "username": "dau"
+    }
   ]
 }
