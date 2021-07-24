@@ -271,18 +271,26 @@
       "dateEnd": "07/31/2021"
     }
   ],
-  "listfriend": [
+  "listchat": [
     {
       "id": 1,
-      "username": "teo"
+      "username": "teo",
+      "type": "people"
     },
     {
       "id": 2,
-      "username": "ti"
+      "username": "ti",
+      "type": "people"
     },
     {
       "id": 3,
-      "username": "dau"
+      "username": "dau",
+      "type": "people"
+    },
+    {
+      "id": 4,
+      "username": "Room",
+      "type": "room"
     }
   ]
 }
