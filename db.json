@@ -32,171 +32,293 @@
   "products": [
     {
       "id": 1,
-      "imgUrl": "/images/pic1.jpg",
+      "listImg": [
+        "/images/pic1.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg",
+        "/images/pic4.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-0-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 2,
-      "imgUrl": "/images/pic2.jpg",
+      "listImg": [
+        "/images/pic2.jpg",
+        "/images/pic1.jpg",
+        "/images/pic3.jpg",
+        "/images/pic4.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 3,
-      "imgUrl": "/images/pic3.jpg",
+      "listImg": [
+        "/images/pic3.jpg",
+        "/images/pic1.jpg",
+        "/images/pic2.jpg",
+        "/images/pic4.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 4,
-      "imgUrl": "/images/pic4.jpg",
+      "listImg": [
+        "/images/pic4.jpg",
+        "/images/pic1.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 5,
-      "imgUrl": "/images/pic5.jpg",
+      "listImg": [
+        "/images/pic5.jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 6,
-      "imgUrl": "/images/pic1.jpg",
+      "listImg": [
+        "/images/pic1jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 7,
-      "imgUrl": "/images/pic2.jpg",
+      "listImg": [
+        "/images/pic2jpg",
+        "/images/pic4.jpg",
+        "/images/pic5.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 8,
-      "imgUrl": "/images/pic3.jpg",
+      "listImg": [
+        "/images/pic3jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic1.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  }, {
+    },
+    {
       "id": 9,
-      "imgUrl": "/images/pic1.jpg",
+      "listImg": [
+        "/images/pic1jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt2",
       "rating": "1-1-1-0-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 10,
-      "imgUrl": "/images/pic2.jpg",
+      "listImg": [
+        "/images/pic2jpg",
+        "/images/pic4.jpg",
+        "/images/pic1.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt2",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 11,
-      "imgUrl": "/images/pic3.jpg",
+      "listImg": [
+        "/images/pic3jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic5.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 12,
-      "imgUrl": "/images/pic4.jpg",
+      "listImg": [
+        "/images/pic4jpg",
+        "/images/pic1.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 13,
-      "imgUrl": "/images/pic5.jpg",
+      "listImg": [
+        "/images/pic5jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 14,
-      "imgUrl": "/images/pic1.jpg",
+      "listImg": [
+        "/images/pic1jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 15,
-      "imgUrl": "/images/pic2.jpg",
+      "listImg": [
+        "/images/pic2jpg",
+        "/images/pic4.jpg",
+        "/images/pic5.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 16,
-      "imgUrl": "/images/pic3.jpg",
+      "listImg": [
+        "/images/pic3jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic1.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  }, {
+    },
+    {
       "id": 17,
-      "imgUrl": "/images/pic1.jpg",
+      "listImg": [
+        "/images/pic1jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt3",
       "rating": "1-1-1-0-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 18,
-      "imgUrl": "/images/pic2.jpg",
+      "listImg": [
+        "/images/pic2jpg",
+        "/images/pic4.jpg",
+        "/images/pic1.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt3",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 19,
-      "imgUrl": "/images/pic3.jpg",
+      "listImg": [
+        "/images/pic3jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic1.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 20,
-      "imgUrl": "/images/pic4.jpg",
+      "listImg": [
+        "/images/pic4jpg",
+        "/images/pic5.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 21,
-      "imgUrl": "/images/pic5.jpg",
+      "listImg": [
+        "/images/pic5jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 22,
-      "imgUrl": "/images/pic1.jpg",
+      "listImg": [
+        "/images/pic1jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 23,
-      "imgUrl": "/images/pic2.jpg",
+      "listImg": [
+        "/images/pic2jpg",
+        "/images/pic4.jpg",
+        "/images/pic5.jpg",
+        "/images/pic3.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  },
-  {
+    },
+    {
       "id": 24,
-      "imgUrl": "/images/pic3.jpg",
+      "listImg": [
+        "/images/pic3jpg",
+        "/images/pic4.jpg",
+        "/images/pic2.jpg",
+        "/images/pic5.jpg"
+      ],
       "name": "Boy’s T-Shirt",
       "rating": "1-1-1-1-0",
       "price": 50
-  }
-  ],  
+    }
+  ],
   "cart": [],
   "comment": [],
   "voucher": [
